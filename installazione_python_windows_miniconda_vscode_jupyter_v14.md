@@ -79,7 +79,7 @@ Se viene visualizzato il numero di versione di VS Code, il comando `code` è con
 
 È più leggera di Anaconda e permette di installare soltanto ciò che serve.
 
-Scaricare dal sito ufficiale la versione di **Miniconda per Windows 64 bit** ed eseguire il file `.exe`.
+Scaricare dal [sito ufficiale](https://www.anaconda.com/download) --> "Download Anaconda Distribution"  la versione di **Miniconda per Windows 64 bit** ed eseguire il file `.exe`.
 
 E' possibile **aggiornare conda**, in caso di nuova versione, con 
 
